@@ -1,0 +1,15 @@
+{
+    "output_file": "eval_results_vqa_rad_int4.jsonl",
+    "num_open": 200,
+    "num_close": 251,
+    "open_type_accuracy": {
+        "percentage": "34.50%",
+        "correct": 69,
+        "total": 200
+    },
+    "close_type_accuracy": {
+        "percentage": "62.55%",
+        "correct": 157,
+        "total": 251
+    }
+}

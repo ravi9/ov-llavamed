@@ -1,0 +1,15 @@
+{
+    "output_file": "eval_results_ckpt2_fp32.jsonl",
+    "num_open": 200,
+    "num_close": 251,
+    "open_type_accuracy": {
+        "percentage": "15.00%",
+        "correct": 30,
+        "total": 200
+    },
+    "close_type_accuracy": {
+        "percentage": "67.33%",
+        "correct": 169,
+        "total": 251
+    }
+}

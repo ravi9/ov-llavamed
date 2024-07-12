@@ -1,0 +1,15 @@
+{
+    "output_file": "eval_results_ckpt2_int4.jsonl",
+    "num_open": 200,
+    "num_close": 251,
+    "open_type_accuracy": {
+        "percentage": "12.00%",
+        "correct": 24,
+        "total": 200
+    },
+    "close_type_accuracy": {
+        "percentage": "65.74%",
+        "correct": 165,
+        "total": 251
+    }
+}
