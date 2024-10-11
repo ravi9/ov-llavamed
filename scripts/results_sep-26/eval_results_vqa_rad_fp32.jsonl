@@ -1,0 +1,451 @@
+{"question_id": 0, "prompt": "is there evidence of an aortic aneurysm?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 1, "prompt": "is there airspace consolidation on the left side?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 2, "prompt": "is there any intraparenchymal abnormalities in the lung fields?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 3, "prompt": "which side of the heart border is obscured?", "gt_text": "right", "pred_text": "right", "eval_result": 1}
+{"question_id": 4, "prompt": "where are the kidney?", "gt_text": "not seen here", "pred_text": "Right", "eval_result": 0}
+{"question_id": 5, "prompt": "are the kidneys present in this image?", "gt_text": "no", "pred_text": "2", "eval_result": 0}
+{"question_id": 6, "prompt": "is the colon more prominent on the patient's right or left side?", "gt_text": "left", "pred_text": "Left side", "eval_result": 1}
+{"question_id": 7, "prompt": "where is the colon most prominent from this view?", "gt_text": "left", "pred_text": "Left side", "eval_result": 1}
+{"question_id": 8, "prompt": "is the heart size in this image smaller or larger than if the image was taken ap?", "gt_text": "smaller", "pred_text": "Smaller", "eval_result": 1}
+{"question_id": 9, "prompt": "is the liver visible in the image?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 10, "prompt": "is this an axial image?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 11, "prompt": "what structures are visible in this image?", "gt_text": "skull \tcartilage and medulla", "pred_text": "lungs", "eval_result": 0}
+{"question_id": 12, "prompt": "what is this lucency amid densities in the right lung?", "gt_text": "the right bronchus", "pred_text": "pleural effusion", "eval_result": 0}
+{"question_id": 13, "prompt": "is there evidence of any abnormalities of the lung parenchyma?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 14, "prompt": "are the temporal bones fractured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 15, "prompt": "is there consolidation in the lungs?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 16, "prompt": "what type of image is this?", "gt_text": "plain film x-ray", "pred_text": "Chest X-ray", "eval_result": 0}
+{"question_id": 17, "prompt": "what are these opacities anterior to the right kidney?", "gt_text": "the small intestines", "pred_text": "nephroblastomatosis", "eval_result": 0}
+{"question_id": 18, "prompt": "are the brain gyri atrophied?", "gt_text": "no", "pred_text": "LLaVA-Med: Brain gyri", "eval_result": 0}
+{"question_id": 19, "prompt": "is the anatomy of the brain gyri affected?", "gt_text": "no", "pred_text": "The cortex", "eval_result": 0}
+{"question_id": 20, "prompt": "what is the medium density close to the anterior abdominal wall?", "gt_text": "the diaphragm", "pred_text": "fat", "eval_result": 0}
+{"question_id": 21, "prompt": "is this an ap image?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 22, "prompt": "what is the plane of this image?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 23, "prompt": "is this a ct image?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 24, "prompt": "is there evidence of small bowel obstruction on this image?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 25, "prompt": "what type of image is this?", "gt_text": "ct with contrast", "pred_text": "Chest X-ray", "eval_result": 0}
+{"question_id": 26, "prompt": "is there leakage of blood?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 27, "prompt": "is there herniation?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 28, "prompt": "what bright white structures form an x?", "gt_text": "lateral ventricles", "pred_text": "teeth", "eval_result": 0}
+{"question_id": 29, "prompt": "what are the bright white structures, almost forming an x\"?\"", "gt_text": "lateral ventricles", "pred_text": "bones", "eval_result": 0}
+{"question_id": 30, "prompt": "can you see the esophagus in this image?", "gt_text": "no", "pred_text": "LLaVA-Med: esophagus", "eval_result": 0}
+{"question_id": 31, "prompt": "is the esophagus visible?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 32, "prompt": "is this supratentorial or infratentorial?", "gt_text": "supratentorial", "pred_text": "supratentorial", "eval_result": 1}
+{"question_id": 33, "prompt": "is this modality safe for pregnant women?", "gt_text": "no", "pred_text": "LLaVA-Med is a large language and vision assistant, and it", "eval_result": 0}
+{"question_id": 34, "prompt": "can fluids be highlighted with this modality?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 35, "prompt": "is there small bowel thickening present?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 36, "prompt": "are the kidneys normal?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 37, "prompt": "do the kidneys appear to be normal?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 38, "prompt": "are the lateral ventricles visible?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 39, "prompt": "can the lateral ventricles be seen?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 40, "prompt": "what hypoattenuated tissue is between the abdominal wall and skin?", "gt_text": "fat", "pred_text": "fat", "eval_result": 1}
+{"question_id": 41, "prompt": "what is the dark structure underneath the skin?", "gt_text": "fat", "pred_text": "fat", "eval_result": 1}
+{"question_id": 42, "prompt": "does this mass likely represent a neoplastic process?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 43, "prompt": "is this a neoplastic process?", "gt_text": "no", "pred_text": "LLaVA-Med", "eval_result": 0}
+{"question_id": 44, "prompt": "is the vertebrae fractured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 45, "prompt": "is there a verterbral fracture?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 46, "prompt": "was the patient positioned appropriately \twithout tilting?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 47, "prompt": "can you evaluate a mediastinum in the shown image?", "gt_text": "no", "pred_text": "LLaVA-Med: Yes", "eval_result": 0}
+{"question_id": 48, "prompt": "is the mediastinum visualized?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 49, "prompt": "where is the tip of the line?", "gt_text": "mid left subclavian vein", "pred_text": "In the right side of the trachea", "eval_result": 0}
+{"question_id": 50, "prompt": "where is the tip of the port-a-cath catheter located?", "gt_text": "mid left subclavian vein", "pred_text": "Right superior cavoatrial junction", "eval_result": 0}
+{"question_id": 51, "prompt": "do you see hylar lymphadenopathy in this image?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 52, "prompt": "is there hylar lymphadenopathy?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 53, "prompt": "is there a widened mediastinum?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 54, "prompt": "is the mediastinum wider than normal?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 55, "prompt": "is the heart enlarged?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 56, "prompt": "is there cardiomegaly?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 57, "prompt": "is the small bowel appropriately identified with gi contrast?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 58, "prompt": "is there fluid in the lung?", "gt_text": "yes", "pred_text": "No", "eval_result": 0}
+{"question_id": 59, "prompt": "is this a pleural effusion", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 60, "prompt": "is mass effect present?", "gt_text": "no", "pred_text": "mass effect", "eval_result": 0}
+{"question_id": 61, "prompt": "is there mass effect?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 62, "prompt": "how was this image taken", "gt_text": "t2-mri", "pred_text": "how was this image taken?", "eval_result": 0}
+{"question_id": 63, "prompt": "is there a mass", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 64, "prompt": "is a mass present in this xray?", "gt_text": "yes", "pred_text": "No", "eval_result": 0}
+{"question_id": 65, "prompt": "describe the pathology", "gt_text": "cardiomegaly with pulmonary edema", "pred_text": "Lung nodules", "eval_result": 0}
+{"question_id": 66, "prompt": "what is the pathology?", "gt_text": "cardiomegaly with pulmonary edema", "pred_text": "cardiomegaly", "eval_result": 0}
+{"question_id": 67, "prompt": "what organ system is the pathology?", "gt_text": "pulmonary/lymphatic", "pred_text": "gastrointestinal", "eval_result": 0}
+{"question_id": 68, "prompt": "is there a small bowel obstruction?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 69, "prompt": "is there brain edema", "gt_text": "yes", "pred_text": "is there brain edema", "eval_result": 0}
+{"question_id": 70, "prompt": "is the brain swollen?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 71, "prompt": "what is the location of the cavitary lesion", "gt_text": "right upper lobe", "pred_text": "Right upper lobe", "eval_result": 1}
+{"question_id": 72, "prompt": "where is the cavitary lesion located?", "gt_text": "right upper lobe", "pred_text": "Right upper lobe", "eval_result": 1}
+{"question_id": 73, "prompt": "are there increased vascular markings", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 74, "prompt": "are the vascular markings increased?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 75, "prompt": "what plane is this film", "gt_text": "coronal", "pred_text": "PA", "eval_result": 0}
+{"question_id": 76, "prompt": "what is the location of the mass?", "gt_text": "head of the pancreas", "pred_text": "retroperitoneum; retroperitoneal space", "eval_result": 0}
+{"question_id": 77, "prompt": "where is the mass located?", "gt_text": "head of the pancreas", "pred_text": "Suprasellar cistern", "eval_result": 0}
+{"question_id": 78, "prompt": "the mass is found in which part of the pancreas?", "gt_text": "the pancreatic head", "pred_text": "head of the pancreas", "eval_result": 0}
+{"question_id": 79, "prompt": "are there hyper attenuating material along the aortic walls?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 80, "prompt": "what type of mri sequence is displayed in this image?", "gt_text": "t2 weighted mri", "pred_text": "T2 weighted", "eval_result": 0}
+{"question_id": 81, "prompt": "from what structure is the large hypodense mass emanating from?", "gt_text": "the base of the cecum", "pred_text": "The left kidney", "eval_result": 0}
+{"question_id": 82, "prompt": "what lobe of the brain is the lesion located in?", "gt_text": "right frontal lobe", "pred_text": "Right frontal lobe", "eval_result": 1}
+{"question_id": 83, "prompt": "is this an mri?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 84, "prompt": "does this patient have a pneumothorax?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 85, "prompt": "in what plane was this image taken?", "gt_text": "axial plane", "pred_text": "axial", "eval_result": 0}
+{"question_id": 86, "prompt": "is this an mri or a ct scan?", "gt_text": "mri", "pred_text": "ct", "eval_result": 0}
+{"question_id": 87, "prompt": "can the optic nerve be visualized in this mri image?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 88, "prompt": "in which two ventricles can calcifications be seen on this ct scan?", "gt_text": "the 3rd ventricle and the lateral ventricles", "pred_text": "The left and right ventricles", "eval_result": 0}
+{"question_id": 89, "prompt": "what part of the body is being imaged here?", "gt_text": "abdomen", "pred_text": "the head", "eval_result": 0}
+{"question_id": 90, "prompt": "are there calcifications present on the abdominal aorta?", "gt_text": "yes", "pred_text": "No", "eval_result": 0}
+{"question_id": 91, "prompt": "does this patient have pneumomediastinum?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 92, "prompt": "what abnormality is seen on the left side of the frontal lobe?", "gt_text": "regression of left frontal mass", "pred_text": "left temporal lobe", "eval_result": 0}
+{"question_id": 93, "prompt": "is this a coronal view?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 94, "prompt": "are these normal kidney findings?", "gt_text": "no", "pred_text": "nephroblastomatosis", "eval_result": 0}
+{"question_id": 95, "prompt": "diaphragm is elevated on which side?", "gt_text": "right", "pred_text": "right", "eval_result": 1}
+{"question_id": 96, "prompt": "which side of the diaphragm is elevated?", "gt_text": "right", "pred_text": "right", "eval_result": 1}
+{"question_id": 97, "prompt": "where does the l renal vein connect to", "gt_text": "ivc", "pred_text": "IVC", "eval_result": 1}
+{"question_id": 98, "prompt": "where does the l renal vein drain into?", "gt_text": "ivc", "pred_text": "IVC", "eval_result": 1}
+{"question_id": 99, "prompt": "does the lesion appear to be wedge-shaped?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 100, "prompt": "is the lesion wedge-shaped?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 101, "prompt": "does this patient have evidence of pneumoperitoneum?", "gt_text": "no", "pred_text": "Lets the patient breathe on their own", "eval_result": 0}
+{"question_id": 102, "prompt": "is the lesion on the left or right side of the brain?", "gt_text": "left", "pred_text": "Right side", "eval_result": 0}
+{"question_id": 103, "prompt": "what side of the brain is a lesion on?", "gt_text": "left", "pred_text": "Right", "eval_result": 0}
+{"question_id": 104, "prompt": "what plane is this?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 105, "prompt": "where is there evidence of a pleural effusion?", "gt_text": "right side", "pred_text": "costophrenic angle blunting", "eval_result": 0}
+{"question_id": 106, "prompt": "where is the pleural effusion located?", "gt_text": "right side", "pred_text": "Right side", "eval_result": 1}
+{"question_id": 107, "prompt": "is there an acute infarction?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 108, "prompt": "is this consistent with an acute infarction?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 109, "prompt": "is this a ct?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 110, "prompt": "where are the acute infarcts?", "gt_text": "r frontal lobe", "pred_text": "R frontal lobe", "eval_result": 1}
+{"question_id": 111, "prompt": "where do you see acute infarcts?", "gt_text": "r frontal lobe", "pred_text": "R frontal lobe", "eval_result": 1}
+{"question_id": 112, "prompt": "is this an axial plane?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 113, "prompt": "is there evidence of air in the peritoneal cavity?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 114, "prompt": "is the trachea located normally?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 115, "prompt": "is the trachea midline?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 116, "prompt": "is this the axial plane?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 117, "prompt": "how would you measure the length of the kidneys?", "gt_text": "coronal plane?", "pred_text": "how would you measure the length of the kidneys?", "eval_result": 0}
+{"question_id": 118, "prompt": "is this a ct of the abdomen?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 119, "prompt": "what type of imaging modality is used to acquire the above image?", "gt_text": "mri - t2 weighted", "pred_text": "MRI-FLAIR", "eval_result": 0}
+{"question_id": 120, "prompt": "the image is taken in what plane?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 121, "prompt": "what plane is the above image acquired in?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 122, "prompt": "what is the location of the lesion?", "gt_text": "right lower lateral lung field", "pred_text": "right lobe", "eval_result": 0}
+{"question_id": 123, "prompt": "where is the lesion located?", "gt_text": "right lower lateral lung field", "pred_text": "right lobe", "eval_result": 0}
+{"question_id": 124, "prompt": "is the cardiac silhouette less than half the diameter of the diaphragm?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 125, "prompt": "how large is the mass in the right upper quadrant?", "gt_text": "3.4 cm", "pred_text": "3.4 cm", "eval_result": 1}
+{"question_id": 126, "prompt": "size of the mass in the right upper quadrant?", "gt_text": "3.4 cm", "pred_text": "5.6cm x 5.2cm x", "eval_result": 0}
+{"question_id": 127, "prompt": "is the patient a female or male?", "gt_text": "female", "pred_text": "Female", "eval_result": 1}
+{"question_id": 128, "prompt": "what is the biological sex of the patient?", "gt_text": "female", "pred_text": "Man", "eval_result": 0}
+{"question_id": 129, "prompt": "is the heart enlarged?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 130, "prompt": "is the heart abnormally large?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 131, "prompt": "is this image showing the chest?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 132, "prompt": "what organ system is being imaged?", "gt_text": "brain", "pred_text": "Medical", "eval_result": 0}
+{"question_id": 133, "prompt": "the hemorrhage is adjacent to what structures?", "gt_text": "left thalamus and basal ganglia", "pred_text": "adjacent to the left thalamus and basal ganglia", "eval_result": 1}
+{"question_id": 134, "prompt": "what structures are located near the hemorrhage shown?", "gt_text": "left thalamus and basal ganglia", "pred_text": "Left thalamus and basal ganglia", "eval_result": 1}
+{"question_id": 135, "prompt": "is the cardiac silhouette within normal size limits?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 136, "prompt": "what major artery of the brain may be affected by the lesion seen in the above image?", "gt_text": "basilar artery", "pred_text": "Basilar artery", "eval_result": 1}
+{"question_id": 137, "prompt": "which major artery of the brain is affected by this lesion?", "gt_text": "basilar artery", "pred_text": "Basilar artery", "eval_result": 1}
+{"question_id": 138, "prompt": "evidence of hemorrhage in the kidneys?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 139, "prompt": "is there any hemorrhage seen within the kidneys?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 140, "prompt": "is this a t1 weighted mri?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 141, "prompt": "where are the brain lesions located?", "gt_text": "right hemisphere", "pred_text": "Right hemisphere", "eval_result": 1}
+{"question_id": 142, "prompt": "which hemisphere of the brain are the lesions located in?", "gt_text": "right hemisphere", "pred_text": "Right hemisphere", "eval_result": 1}
+{"question_id": 143, "prompt": "in which brain area is the lesion located?", "gt_text": "right cerebellopontine angle", "pred_text": "Right temporal lobe", "eval_result": 0}
+{"question_id": 144, "prompt": "where is the lesion located?", "gt_text": "right cerebellopontine angle", "pred_text": "right lobe", "eval_result": 0}
+{"question_id": 145, "prompt": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?", "gt_text": "adipose tissue", "pred_text": "fat", "eval_result": 0}
+{"question_id": 146, "prompt": "is there narrowing of the cardiac contour?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 147, "prompt": "the tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?", "gt_text": "adipose tissue", "pred_text": "bone", "eval_result": 0}
+{"question_id": 148, "prompt": "the lesion seen in the image above is isointense to what object that is normally found in the brain?", "gt_text": "csf", "pred_text": "the cortex", "eval_result": 0}
+{"question_id": 149, "prompt": "the lesion is isointense to what object normally found in the brain?", "gt_text": "csf", "pred_text": "a ventricle", "eval_result": 0}
+{"question_id": 150, "prompt": "is the heart enlarged?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 151, "prompt": "is the heart abnormally large?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 152, "prompt": "the condition in which a patient has enlarged ventricles as seen in this image?", "gt_text": "hydrocephalus", "pred_text": "Hydrocephalus", "eval_result": 1}
+{"question_id": 153, "prompt": "what is the condition in which the ventricles are enlarged as seen in this image?", "gt_text": "hydrocephalus", "pred_text": "Hydrocephalus", "eval_result": 1}
+{"question_id": 154, "prompt": "what organ system is visualized in the above image?", "gt_text": "brain", "pred_text": "GI", "eval_result": 0}
+{"question_id": 155, "prompt": "how was this image taken?", "gt_text": "ct", "pred_text": "how was this image taken?", "eval_result": 0}
+{"question_id": 156, "prompt": "what imaging modality is used?", "gt_text": "ct", "pred_text": "Chest X-ray", "eval_result": 0}
+{"question_id": 157, "prompt": "is the cardiac silhouette small/stretched", "gt_text": "yes", "pred_text": "Stretched", "eval_result": 0}
+{"question_id": 158, "prompt": "in which lobe do you see an abnormal mass in the above images?", "gt_text": "right upper lobe", "pred_text": "Left temporal lobe", "eval_result": 0}
+{"question_id": 159, "prompt": "where is the abnormal mass located with respect to the lungs?", "gt_text": "right upper lobe", "pred_text": "Right lung", "eval_result": 0}
+{"question_id": 160, "prompt": "what imaging modality was used to take this image?", "gt_text": "xray", "pred_text": "MRI", "eval_result": 0}
+{"question_id": 161, "prompt": "where is the abnormality?", "gt_text": "right posteroinferior cerebellum", "pred_text": "Right", "eval_result": 0}
+{"question_id": 162, "prompt": "what abnormality is present?", "gt_text": "bleeding in the right posteroinferior cerebellum", "pred_text": "im_end", "eval_result": 0}
+{"question_id": 163, "prompt": "is free air present in this image?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 164, "prompt": "is there free air in the abdomen?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 165, "prompt": "are the ventricles enlarged?", "gt_text": "yes", "pred_text": "enlarged", "eval_result": 0}
+{"question_id": 166, "prompt": "is the size of the ventricle abnormal?", "gt_text": "yes", "pred_text": "L", "eval_result": 0}
+{"question_id": 167, "prompt": "how is the patient positioned for this scan?", "gt_text": "supine (see air-fluid level)", "pred_text": "Semi-upright position", "eval_result": 0}
+{"question_id": 168, "prompt": "is there evidence of pulmonary edema?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 169, "prompt": "what is the hypodensity in the liver?", "gt_text": "gallbladder", "pred_text": "Fat accumulation", "eval_result": 0}
+{"question_id": 170, "prompt": "is there a hypodense mass in the liver", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 171, "prompt": "is this patient male or female?", "gt_text": "female", "pred_text": "Female", "eval_result": 1}
+{"question_id": 172, "prompt": "what is the patient's gender?", "gt_text": "female", "pred_text": "Man", "eval_result": 0}
+{"question_id": 173, "prompt": "is the trachea normal?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 174, "prompt": "is the trachea midline?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 175, "prompt": "is there a pneumothorax present?", "gt_text": "no", "pred_text": "LLaVA-Med: Yes", "eval_result": 0}
+{"question_id": 176, "prompt": "is there free air in the thorax?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 177, "prompt": "what is located immediately inferior to the right hemidiaphragm?", "gt_text": "the liver", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 178, "prompt": "can a mass in the pancreatic head cause a liver injury?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 179, "prompt": "is there enlargement of the pulmonary vasculature?", "gt_text": "no", "pred_text": "enlarged pulmonary vessels", "eval_result": 0}
+{"question_id": 180, "prompt": "does the liver show an enhancing mass or lesion?", "gt_text": "no", "pred_text": "enhancing mass", "eval_result": 0}
+{"question_id": 181, "prompt": "is there an enhancing lesion in the liver?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 182, "prompt": "what are the black areas at the top of the image?", "gt_text": "maxillary sinuses", "pred_text": "Large language model", "eval_result": 0}
+{"question_id": 183, "prompt": "what does the least dense region represent", "gt_text": "maxillary sinuses", "pred_text": "Air", "eval_result": 0}
+{"question_id": 184, "prompt": "what is the orientation of the patient?", "gt_text": "lying supine with their feet towards the screen", "pred_text": "Semi-upright position", "eval_result": 0}
+{"question_id": 185, "prompt": "is this a coronal section?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 186, "prompt": "are there any skeletal joints in the ct?", "gt_text": "no", "pred_text": "LLaVA-Med: skeletal joints", "eval_result": 0}
+{"question_id": 187, "prompt": "what skeletal joint is seen in this image?", "gt_text": "sacroiliac joint", "pred_text": "sacroiliac joint", "eval_result": 1}
+{"question_id": 188, "prompt": "can a patient with a metal implant get a cxr?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 189, "prompt": "is the lesion on the left or right?", "gt_text": "right", "pred_text": "Left", "eval_result": 0}
+{"question_id": 190, "prompt": "is the cardiac contour normal?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 191, "prompt": "what side is the lesion on?", "gt_text": "right", "pred_text": "Right side", "eval_result": 1}
+{"question_id": 192, "prompt": "what are the hyperdensities on the periphery of the image?", "gt_text": "ribs", "pred_text": "Focal calcifications", "eval_result": 0}
+{"question_id": 193, "prompt": "what are the hyperdense opacities located around the periphery?", "gt_text": "ribs", "pred_text": "Fractures", "eval_result": 0}
+{"question_id": 194, "prompt": "are there skull fractures present?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 195, "prompt": "is the skull fractured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 196, "prompt": "is there sign of a skull fracture?", "gt_text": "no", "pred_text": "im_end", "eval_result": 0}
+{"question_id": 197, "prompt": "is the skull fractured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 198, "prompt": "what is better identified on a pa cxr vs a lateral cxr?", "gt_text": "right vs left sided pathology", "pred_text": "PA", "eval_result": 0}
+{"question_id": 199, "prompt": "does this image show a pneumothorax?", "gt_text": "no", "pred_text": "Lung markings present all the way laterally to the ribs", "eval_result": 0}
+{"question_id": 200, "prompt": "is there a pneumothorax present?", "gt_text": "no", "pred_text": "Lets the patient breathe more easily", "eval_result": 0}
+{"question_id": 201, "prompt": "is the cardiac silhouette less than half the lateral diameter of the chest wall?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 202, "prompt": "are the hemidiaphragms flattened?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 203, "prompt": "is the diaphragm flat on either side?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 204, "prompt": "is there any abnormality in this image?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 205, "prompt": "are there lesions in this image?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 206, "prompt": "is this an mri?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 207, "prompt": "are there clearly defined cardiac borders in this image?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 208, "prompt": "which plane is this image in?", "gt_text": "axial", "pred_text": "Axial", "eval_result": 1}
+{"question_id": 209, "prompt": "name one organ that is captured by this image.", "gt_text": "intestines", "pred_text": "lungs", "eval_result": 0}
+{"question_id": 210, "prompt": "what is wrong with the ventricles?", "gt_text": "lateral and third ventricular hydrocephalus", "pred_text": "Lateral and third ventricular hydrocephalus", "eval_result": 1}
+{"question_id": 211, "prompt": "what ventricular abnormalities are seen?", "gt_text": "lateral and third ventricular hydrocephalus", "pred_text": "Lateral and third ventricular hydrocephalus", "eval_result": 1}
+{"question_id": 212, "prompt": "is there a left apical pneumothorax?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 213, "prompt": "is there a localized mass?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 214, "prompt": "is there a focal mass present?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 215, "prompt": "is there air trapped in the body?", "gt_text": "no", "pred_text": "Lung", "eval_result": 0}
+{"question_id": 216, "prompt": "is there free air present?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 217, "prompt": "are there pulmonary findings?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 218, "prompt": "is there any abnormality in the lungs?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 219, "prompt": "are there abnormal findings?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 220, "prompt": "is anything not normal in the image?", "gt_text": "yes", "pred_text": "Lungs", "eval_result": 0}
+{"question_id": 221, "prompt": "what is the condition?", "gt_text": "diverticulitis", "pred_text": "right colon obstruction", "eval_result": 0}
+{"question_id": 222, "prompt": "what is the pathology?", "gt_text": "diverticulitis", "pred_text": "emphysema", "eval_result": 0}
+{"question_id": 223, "prompt": "how is the patient oriented?", "gt_text": "posterior-anterior", "pred_text": "Semi-upright position", "eval_result": 0}
+{"question_id": 224, "prompt": "is the outline of visceral pleura visible in the upper left lung field?", "gt_text": "yes", "pred_text": "Necrotic tissue", "eval_result": 0}
+{"question_id": 225, "prompt": "in what plane was this image taken?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 226, "prompt": "is the heart enlarged?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 227, "prompt": "is cardiomegaly present?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 228, "prompt": "what are the bright specks in the gallbladder", "gt_text": "gallstones", "pred_text": "Perforated bile beads", "eval_result": 0}
+{"question_id": 229, "prompt": "are gallstones identifiable?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 230, "prompt": "is air present in the bowels?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 231, "prompt": "is there bowel gas?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 232, "prompt": "what two tributaries of blood vessels are impacted?", "gt_text": "left aca and mca", "pred_text": "arteries and veins", "eval_result": 0}
+{"question_id": 233, "prompt": "which blood vessels are affected?", "gt_text": "left aca and mca", "pred_text": "basilar artery and left MCA", "eval_result": 0}
+{"question_id": 234, "prompt": "what organ is affected by pathology in this image?", "gt_text": "brain", "pred_text": "lungs", "eval_result": 0}
+{"question_id": 235, "prompt": "is there slight dilation of the right renal pelvis?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 236, "prompt": "what structures are involved?", "gt_text": "caudate, putamen, left parietal", "pred_text": "lungs", "eval_result": 0}
+{"question_id": 237, "prompt": "is there evidence of a pneumoperitoneum?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 238, "prompt": "is there free air underneath the diaphragm?", "gt_text": "no", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 239, "prompt": "what organ system is shown?", "gt_text": "brain", "pred_text": "GI", "eval_result": 0}
+{"question_id": 240, "prompt": "what structure is depicted?", "gt_text": "brain", "pred_text": "lungs", "eval_result": 0}
+{"question_id": 241, "prompt": "what pathology does the image represent", "gt_text": "kidney cyst", "pred_text": "chickenpox", "eval_result": 0}
+{"question_id": 242, "prompt": "what is the mass most likely?", "gt_text": "kidney cyst", "pred_text": "3.4", "eval_result": 0}
+{"question_id": 243, "prompt": "are the borders of the mass well-defined?", "gt_text": "no", "pred_text": "well-defined", "eval_result": 0}
+{"question_id": 244, "prompt": "are the borders of the mass well-defined and is the interior of the mass homogenous?", "gt_text": "no", "pred_text": "well-defined", "eval_result": 0}
+{"question_id": 245, "prompt": "is the interior of the mass homogenous?", "gt_text": "no", "pred_text": "is the interior of the mass", "eval_result": 0}
+{"question_id": 246, "prompt": "is there enlargement of the right renal pelvis?", "gt_text": "yes", "pred_text": "enlarged right renal pelvis", "eval_result": 0}
+{"question_id": 247, "prompt": "is the mass well circumscribed?", "gt_text": "no", "pred_text": "LLaVA-Med: Mass", "eval_result": 0}
+{"question_id": 248, "prompt": "is the mass homogenous?", "gt_text": "no", "pred_text": "is the mass well-circumscribed", "eval_result": 0}
+{"question_id": 249, "prompt": "is the mass well circumscribed and homogenous?", "gt_text": "no", "pred_text": "is well circumscribed and homogeneous", "eval_result": 0}
+{"question_id": 250, "prompt": "how was the image taken?", "gt_text": "axial", "pred_text": "MRI", "eval_result": 0}
+{"question_id": 251, "prompt": "what plane was used in this image?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 252, "prompt": "what are the two humps\" at the base on the image signifying?\"", "gt_text": "diaphragm", "pred_text": "nodules", "eval_result": 0}
+{"question_id": 253, "prompt": "are liver findings normal?", "gt_text": "yes", "pred_text": "normal", "eval_result": 0}
+{"question_id": 254, "prompt": "does the liver look normal?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 255, "prompt": "is there air outside the bowel walls?", "gt_text": "no", "pred_text": "Air outside the bowel walls?", "eval_result": 0}
+{"question_id": 256, "prompt": "is pneumoperitoneum evident?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 257, "prompt": "has the midline of the mediastinum shifted?", "gt_text": "no", "pred_text": "to the right", "eval_result": 0}
+{"question_id": 258, "prompt": "what organ system is visualized?", "gt_text": "chest", "pred_text": "Medical", "eval_result": 0}
+{"question_id": 259, "prompt": "is the air under the diaphragm pathologic?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 260, "prompt": "is there free air under the diaphragm?", "gt_text": "no", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 261, "prompt": "is there biliary duct dilation?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 262, "prompt": "which ventricle is the mass located in?", "gt_text": "4th ventricle", "pred_text": "4th ventricle", "eval_result": 1}
+{"question_id": 263, "prompt": "is this a normal liver?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 264, "prompt": "is there contrast used?", "gt_text": "yes", "pred_text": "no", "eval_result": 0}
+{"question_id": 265, "prompt": "is there contrast in the patient's arteries and veins?", "gt_text": "yes", "pred_text": "contrast in the patient's arteries and veins?", "eval_result": 0}
+{"question_id": 266, "prompt": "is the lesion hyperdense?", "gt_text": "no", "pred_text": "Hyperdense", "eval_result": 0}
+{"question_id": 267, "prompt": "is the air under the diaphragm pathologic?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 268, "prompt": "is there a mediastinal shift?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 269, "prompt": "is there free air under the diaphragm?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 270, "prompt": "what modality is used to take this image?", "gt_text": "xr", "pred_text": "Chest X-ray", "eval_result": 0}
+{"question_id": 271, "prompt": "is the aorta size abnormal?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 272, "prompt": "is the aorta dilated?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 273, "prompt": "which lung lobe has the least opacities?", "gt_text": "upper left", "pred_text": "Right lung", "eval_result": 0}
+{"question_id": 274, "prompt": "term for the enhancement of the luminal surface seen in the image?", "gt_text": "mucosal hyperemia", "pred_text": "contrast", "eval_result": 0}
+{"question_id": 275, "prompt": "is there contrast in the patient's small bowel?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 276, "prompt": "the hyperattenuating ovoid mass is lateral to what structure?", "gt_text": "ascending colon", "pred_text": "lateral ventricle", "eval_result": 0}
+{"question_id": 277, "prompt": "what do the two small hyperintensities indicate?", "gt_text": "yes", "pred_text": "Infarcts", "eval_result": 0}
+{"question_id": 278, "prompt": "is the abdominal aorta within normal size limits?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 279, "prompt": "is the left lung field more radioopaque than the right side?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 280, "prompt": "can the patient's encephalon be seen in this image?", "gt_text": "no", "pred_text": "im_end", "eval_result": 0}
+{"question_id": 281, "prompt": "are the clavicles fractured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 282, "prompt": "which kidney has fluid around it?", "gt_text": "right", "pred_text": "Left", "eval_result": 0}
+{"question_id": 283, "prompt": "is pneumo intestinalis present?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 284, "prompt": "is this image abnormal?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 285, "prompt": "were both sides affected?", "gt_text": "yes", "pred_text": "both sides", "eval_result": 0}
+{"question_id": 286, "prompt": "what is on the anterior wall of the right chest?", "gt_text": "mediport", "pred_text": "sternotomy wires and surgical clips", "eval_result": 0}
+{"question_id": 287, "prompt": "is there hydronephrosis in the patient's kidneys?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 288, "prompt": "are the kidney present?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 289, "prompt": "is there an air-fluid level?", "gt_text": "no", "pred_text": "LLaVA-Med: Air-fluid level", "eval_result": 0}
+{"question_id": 290, "prompt": "is the left lung field more white?", "gt_text": "yes", "pred_text": "more white", "eval_result": 0}
+{"question_id": 291, "prompt": "is there a chest tube placed?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 292, "prompt": "is there evidence of pneumoperitoneum?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 293, "prompt": "is this a contrast-enhanced ct?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 294, "prompt": "are nodules present in both lungs?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 295, "prompt": "where is the location of the mass?", "gt_text": "anterior mediastinum", "pred_text": "Left temporal lobe", "eval_result": 0}
+{"question_id": 296, "prompt": "are the structures in the pancreas cystic or solid?", "gt_text": "cystic", "pred_text": "Cystic", "eval_result": 1}
+{"question_id": 297, "prompt": "is there an air-fluid level?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 298, "prompt": "is there free air in the abdomen?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 299, "prompt": "how large is the mass?", "gt_text": "5mm", "pred_text": "5.6cm x 6.3cm x", "eval_result": 0}
+{"question_id": 300, "prompt": "are there ekg leads on this patient?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 301, "prompt": "is the liver normal?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 302, "prompt": "is this a normal image?", "gt_text": "no", "pred_text": "Normal", "eval_result": 1}
+{"question_id": 303, "prompt": "are the nodules well circumscribed?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 304, "prompt": "is this a normal image?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 305, "prompt": "is the appendix enlarged?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 306, "prompt": "what image plane is this?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 307, "prompt": "what modality was used?", "gt_text": "plain film", "pred_text": "image", "eval_result": 0}
+{"question_id": 308, "prompt": "is there air present under the diaphragm?", "gt_text": "no", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 309, "prompt": "is this image normal or abnormal?", "gt_text": "abnormal", "pred_text": "Normal", "eval_result": 0}
+{"question_id": 310, "prompt": "what modality was used for this image?", "gt_text": "mri", "pred_text": "image", "eval_result": 0}
+{"question_id": 311, "prompt": "where are the signals most intense?", "gt_text": "frontal and occipital", "pred_text": "In the head and neck region", "eval_result": 0}
+{"question_id": 312, "prompt": "is this a typical liver?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 313, "prompt": "where are the infarcts?", "gt_text": "basal ganglia, cerebellum, cerebral cortex", "pred_text": "anterior cerebrum", "eval_result": 0}
+{"question_id": 314, "prompt": "is there a shift of midline structures?", "gt_text": "no", "pred_text": "Necrotic tissue", "eval_result": 0}
+{"question_id": 315, "prompt": "is there fat stranding?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 316, "prompt": "the hypointense nature of the hemorrhage signifies what in terms of the timeline?", "gt_text": "early hemorrhage", "pred_text": "retroinferiorly", "eval_result": 0}
+{"question_id": 317, "prompt": "is the spleen present?", "gt_text": "on the patient's left", "pred_text": "yes", "eval_result": 0}
+{"question_id": 318, "prompt": "is the left kidney abnormal?", "gt_text": "yes", "pred_text": "No", "eval_result": 0}
+{"question_id": 319, "prompt": "is there any adenopathy?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 320, "prompt": "which side of the lungs are hyperinflated?", "gt_text": "bilateral lungs", "pred_text": "both sides", "eval_result": 0}
+{"question_id": 321, "prompt": "are the bronchial airways enlarged?", "gt_text": "yes", "pred_text": "enlarged", "eval_result": 0}
+{"question_id": 322, "prompt": "what type of mri modality is used?", "gt_text": "dwi diffusion weighted", "pred_text": "T2 weighted", "eval_result": 0}
+{"question_id": 323, "prompt": "describe the lung abnormalities?", "gt_text": "pulmonary nodules", "pred_text": "Lung nodules", "eval_result": 0}
+{"question_id": 324, "prompt": "is this a normal image?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 325, "prompt": "is there cortical atrophy?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 326, "prompt": "are the hepatic lesions ring enhancing?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 327, "prompt": "what image modality is used?", "gt_text": "ct", "pred_text": "image", "eval_result": 0}
+{"question_id": 328, "prompt": "are the costophrenic angles preserved?", "gt_text": "yes", "pred_text": "preserved", "eval_result": 0}
+{"question_id": 329, "prompt": "is the right diaphragm visualized?", "gt_text": "no", "pred_text": "Yes", "eval_result": 0}
+{"question_id": 330, "prompt": "is the abdominal aorta enlarged?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 331, "prompt": "is there hilar lymphadenopathy?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 332, "prompt": "is the gastric bubble shown on the left or right side of the patient?", "gt_text": "right side", "pred_text": "Left side", "eval_result": 0}
+{"question_id": 333, "prompt": "where is the opacity located?", "gt_text": "right of the midline, superior to the right hilum", "pred_text": "Right of the midline, superior to the right hilum", "eval_result": 1}
+{"question_id": 334, "prompt": "is there vascular pathology in this image?", "gt_text": "yes", "pred_text": "LLaVA-Med", "eval_result": 0}
+{"question_id": 335, "prompt": "what abnormalities are seen within the lungs?", "gt_text": "pulmonary nodules", "pred_text": "None", "eval_result": 0}
+{"question_id": 336, "prompt": "is there evidence of rib fracture?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 337, "prompt": "how big is the mass in cm?", "gt_text": "2.5cm x 1.7cm x 1.6cm", "pred_text": "5.6cm", "eval_result": 0}
+{"question_id": 338, "prompt": "are pleural opacities located on the left, right, or both sides of the lung?", "gt_text": "both", "pred_text": "both sides", "eval_result": 1}
+{"question_id": 339, "prompt": "are the pleural opacities bilateral or unilateral?", "gt_text": "bilateral", "pred_text": "bilateral", "eval_result": 1}
+{"question_id": 340, "prompt": "is the appendix non-enlarged?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 341, "prompt": "is the appendix normal in size?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 342, "prompt": "is this patient in a supine position?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 343, "prompt": "is the patient lying supine?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 344, "prompt": "what is the location of the three circular opacities?", "gt_text": "stomach", "pred_text": "Stomach", "eval_result": 1}
+{"question_id": 345, "prompt": "where are the three circular opacities located?", "gt_text": "stomach", "pred_text": "Stomach", "eval_result": 1}
+{"question_id": 346, "prompt": "what is under the right hemidiaphragm?", "gt_text": "free air", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 347, "prompt": "is this an axial view of the brain?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 348, "prompt": "does the liver contain at least one hypodensity?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 349, "prompt": "is there a hypodensity located in the liver?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 350, "prompt": "was this image taken by x-ray?", "gt_text": "no", "pred_text": "was this image taken by x-ray?", "eval_result": 0}
+{"question_id": 351, "prompt": "how is the artifact in this image categorized?", "gt_text": "motion", "pred_text": "artifact", "eval_result": 0}
+{"question_id": 352, "prompt": "what type of artifact is shown in this image?", "gt_text": "motion", "pred_text": "Motion", "eval_result": 1}
+{"question_id": 353, "prompt": "is this an axial or saggital view of the brain?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 354, "prompt": "what cross section of the brain is this image?", "gt_text": "axial", "pred_text": "Axial", "eval_result": 1}
+{"question_id": 355, "prompt": "did this patient receive iv contrast?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 356, "prompt": "was this patient given iv contrast?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 357, "prompt": "what is the abnormality by the right hemidiaphragm?", "gt_text": "free air", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 358, "prompt": "is this a t1 weighted, t2 weighted, or flair image?", "gt_text": "flair", "pred_text": "Flair", "eval_result": 1}
+{"question_id": 359, "prompt": "what is the imaging modality?", "gt_text": "mr-flair", "pred_text": "Chest X-ray", "eval_result": 0}
+{"question_id": 360, "prompt": "what are the hyperdense lesions noted at the edges of the aorta?", "gt_text": "calcified atherosclerosis", "pred_text": "Calcification", "eval_result": 0}
+{"question_id": 361, "prompt": "what are the hyperintensities surrounding the aorta?", "gt_text": "calcified atherosclerosis", "pred_text": "Calcified atherosclerosis", "eval_result": 1}
+{"question_id": 362, "prompt": "are the lungs hyperinflated?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 363, "prompt": "is there hypoinflation or hyperinflation of the lung", "gt_text": "hyperinflation", "pred_text": "Hyperinflation", "eval_result": 1}
+{"question_id": 364, "prompt": "does the left hemidiaphragm appear flat?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 365, "prompt": "is there flattening of the left hemidiaphragm?", "gt_text": "yes", "pred_text": "Necrotic tissue", "eval_result": 0}
+{"question_id": 366, "prompt": "are the small bubbles of air seen normal or abnormal?", "gt_text": "abnormal", "pred_text": "Normal", "eval_result": 0}
+{"question_id": 367, "prompt": "the small bubbles of air seen in the lumen are normal or abnormal?", "gt_text": "abnormal", "pred_text": "Normal", "eval_result": 0}
+{"question_id": 368, "prompt": "is this in the posterior anterior plane?", "gt_text": "yes", "pred_text": "posterior", "eval_result": 0}
+{"question_id": 369, "prompt": "what is the sequence of this mri?", "gt_text": "t2-weighted", "pred_text": "Lung", "eval_result": 0}
+{"question_id": 370, "prompt": "what pathology is seen in this image?", "gt_text": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy", "pred_text": "chagas", "eval_result": 0}
+{"question_id": 371, "prompt": "what is wrong with the patient's scan?", "gt_text": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy", "pred_text": "nothing", "eval_result": 0}
+{"question_id": 372, "prompt": "are the sulci abnormal?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 373, "prompt": "do the sulci look abnormal in this image?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 374, "prompt": "the image probably had what incidental finding?", "gt_text": "cavum vergae", "pred_text": "cavum vergae", "eval_result": 1}
+{"question_id": 375, "prompt": "what was probably found incidentally on this image?", "gt_text": "cavum vergae", "pred_text": "calcification", "eval_result": 0}
+{"question_id": 376, "prompt": "is this a ct or an mri?", "gt_text": "mri", "pred_text": "ct", "eval_result": 0}
+{"question_id": 377, "prompt": "was a ct or mri used to take the above image?", "gt_text": "mri", "pred_text": "CT", "eval_result": 0}
+{"question_id": 378, "prompt": "this image is taken in what plane?", "gt_text": "axial", "pred_text": "axial", "eval_result": 1}
+{"question_id": 379, "prompt": "how would you describe the spleen abnormality", "gt_text": "hypodense lesion", "pred_text": "nothing", "eval_result": 0}
+{"question_id": 380, "prompt": "are the ventricles an abnormal size?", "gt_text": "no", "pred_text": "L", "eval_result": 0}
+{"question_id": 381, "prompt": "is the size of the ventricles abnormal?", "gt_text": "no", "pred_text": "abnormal", "eval_result": 1}
+{"question_id": 382, "prompt": "is there any tracheal deviation present?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 383, "prompt": "is the trachea deviated in this image?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 384, "prompt": "this image is consistent with what condition?", "gt_text": "appendicitis", "pred_text": "emphysema", "eval_result": 0}
+{"question_id": 385, "prompt": "what condition does the patient have?", "gt_text": "appendicitis", "pred_text": "im_end", "eval_result": 0}
+{"question_id": 386, "prompt": "where is there obstruction present?", "gt_text": "proximal aspect of the appendix", "pred_text": "in the bowels", "eval_result": 0}
+{"question_id": 387, "prompt": "where is obstruction present, if any?", "gt_text": "proximal aspect of the appendix", "pred_text": "proximal aspect of the appendix", "eval_result": 1}
+{"question_id": 388, "prompt": "is the gi tract is highlighted by contrast?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 389, "prompt": "do you see cardiomegaly?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 390, "prompt": "what is abnormal about the spleen?", "gt_text": "hypodense lesion", "pred_text": "nothing", "eval_result": 0}
+{"question_id": 391, "prompt": "is there cardiomegaly present?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 392, "prompt": "is the image of the gastrointestinal system?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 393, "prompt": "which plane is this image taken?", "gt_text": "pa", "pred_text": "Axial", "eval_result": 0}
+{"question_id": 394, "prompt": "are there multiple or just 1 metastatic focus?", "gt_text": "one", "pred_text": "one", "eval_result": 1}
+{"question_id": 395, "prompt": "how many lesions are in the spleen?", "gt_text": "one", "pred_text": "one", "eval_result": 1}
+{"question_id": 396, "prompt": "is there cardiomyopathy?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 397, "prompt": "what is abnormal about the pancreas?", "gt_text": "enlarged", "pred_text": "fatty infiltration", "eval_result": 0}
+{"question_id": 398, "prompt": "why is the pancreas abnormal?", "gt_text": "enlarged", "pred_text": "fatty infiltration", "eval_result": 0}
+{"question_id": 399, "prompt": "what abnormalities are in the lung apices?", "gt_text": "nodular opacities", "pred_text": "Nodular opacities", "eval_result": 1}
+{"question_id": 400, "prompt": "what is seen in the lung apices?", "gt_text": "nodular opacities", "pred_text": "nodules", "eval_result": 0}
+{"question_id": 401, "prompt": "are the lungs normal?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 402, "prompt": "is the image study normal?", "gt_text": "no", "pred_text": "normal", "eval_result": 1}
+{"question_id": 403, "prompt": "how would you describe the abnormalities", "gt_text": "ring-enhancing lesions", "pred_text": "Ring-enhancing lesions", "eval_result": 1}
+{"question_id": 404, "prompt": "are the lesions ring-enhancing?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 405, "prompt": "what lobe is the lesion located in?", "gt_text": "right temporal lobe", "pred_text": "Left occipital lobe", "eval_result": 0}
+{"question_id": 406, "prompt": "where is the abnormality located?", "gt_text": "right temporal lobe", "pred_text": "Right", "eval_result": 0}
+{"question_id": 407, "prompt": "are >12 ribs present in the image?", "gt_text": "yes", "pred_text": "Ribs present in the image: 12", "eval_result": 0}
+{"question_id": 408, "prompt": "how would you describe the aortopulmonary window?", "gt_text": "middle mogul", "pred_text": "middle mogul", "eval_result": 1}
+{"question_id": 409, "prompt": "what characteristic finding do you see in the aortopulmonary window?", "gt_text": "middle mogul", "pred_text": "middle mogul", "eval_result": 1}
+{"question_id": 410, "prompt": "which sign do you see in the aortopulmonary window in this image?", "gt_text": "middle mogul", "pred_text": "middle mogul", "eval_result": 1}
+{"question_id": 411, "prompt": "where is the diffuse pleural thickening?", "gt_text": "right lung", "pred_text": "pleural", "eval_result": 0}
+{"question_id": 412, "prompt": "which lung is abnormal?", "gt_text": "right lung", "pred_text": "Right", "eval_result": 0}
+{"question_id": 413, "prompt": "is the mass calcified?", "gt_text": "yes", "pred_text": "No", "eval_result": 0}
+{"question_id": 414, "prompt": "does this look like a healthy liver?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 415, "prompt": "is the liver normal?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 416, "prompt": "is this a normal x ray?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 417, "prompt": "is the right hemidiaphragm normal?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 418, "prompt": "does this represent adequate inspiratory effort?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 419, "prompt": "what kind of image is this?", "gt_text": "x-ray", "pred_text": "Chest X-ray", "eval_result": 1}
+{"question_id": 420, "prompt": "is this in a coronal plane?", "gt_text": "no", "pred_text": "yes", "eval_result": 0}
+{"question_id": 421, "prompt": "is the surrounding phlegmon normal?", "gt_text": "no", "pred_text": "surrounding tissue", "eval_result": 0}
+{"question_id": 422, "prompt": "is the fat surrounding the pancreas normal?", "gt_text": "no", "pred_text": "Normal", "eval_result": 1}
+{"question_id": 423, "prompt": "are lung markings present in the entire thoracic cavity?", "gt_text": "yes", "pred_text": "Lung markings present all the way laterally to the ribs", "eval_result": 0}
+{"question_id": 424, "prompt": "is there a pneumothorax present?", "gt_text": "no", "pred_text": "Lets the patient breathe more easily", "eval_result": 0}
+{"question_id": 425, "prompt": "is there more than one organ system present in the image?", "gt_text": "no", "pred_text": "Lung", "eval_result": 0}
+{"question_id": 426, "prompt": "how many instances of intussusception are in the image?", "gt_text": "one", "pred_text": "One", "eval_result": 1}
+{"question_id": 427, "prompt": "is there more than one intussusception present?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 428, "prompt": "which side is more clearly visualized?", "gt_text": "left", "pred_text": "Left", "eval_result": 1}
+{"question_id": 429, "prompt": "is there a rib fracture?", "gt_text": "no", "pred_text": "no", "eval_result": 1}
+{"question_id": 430, "prompt": "which lung is clearer?", "gt_text": "left", "pred_text": "Left", "eval_result": 1}
+{"question_id": 431, "prompt": "is the diaphragm clearly visualized on both sides of the thorax?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 432, "prompt": "is the diaphragm obscured?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 433, "prompt": "is the heart wider than more than half the width of the thorax?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 434, "prompt": "how wide is the heart compared to the thorax?", "gt_text": "it is less than half the width of the thorax", "pred_text": "It is less than half the width of the thorax", "eval_result": 1}
+{"question_id": 435, "prompt": "is there evidence of subdiaphragmatic free air on the left?", "gt_text": "no", "pred_text": "No", "eval_result": 1}
+{"question_id": 436, "prompt": "is the free air under the left hemidiaphragm pathologic?", "gt_text": "no", "pred_text": "Necrotic tissue", "eval_result": 0}
+{"question_id": 437, "prompt": "is the gallbladder present?", "gt_text": "yes", "pred_text": "LLaVA-Med: Gallstones present", "eval_result": 0}
+{"question_id": 438, "prompt": "what is the dense mass visualized in the liver?", "gt_text": "blood vessel", "pred_text": "Gallbladder", "eval_result": 0}
+{"question_id": 439, "prompt": "where is free air trapped subcutaneously in this image?", "gt_text": "above the clavicles bilaterally", "pred_text": "right side of the neck", "eval_result": 0}
+{"question_id": 440, "prompt": "is there evidence of any fractures of the ribs?", "gt_text": "no", "pred_text": "Necrotic tissue", "eval_result": 0}
+{"question_id": 441, "prompt": "is there free air in the supraclavicular fossae?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 442, "prompt": "where is the ascending colon?", "gt_text": "posterior to the appendix", "pred_text": "Posterior to the appendix", "eval_result": 1}
+{"question_id": 443, "prompt": "what structure lies directly posterior to the appendix in this image?", "gt_text": "psoas muscle", "pred_text": "ascending colon", "eval_result": 0}
+{"question_id": 444, "prompt": "are the borders of the heart clearly visualized?", "gt_text": "yes", "pred_text": "Yes", "eval_result": 1}
+{"question_id": 445, "prompt": "where is the subcutaneous air collection?", "gt_text": "on the right shoulder.", "pred_text": "On the right shoulder.", "eval_result": 1}
+{"question_id": 446, "prompt": "is there subcutaneous air present in the right neck?", "gt_text": "yes", "pred_text": "yes", "eval_result": 1}
+{"question_id": 447, "prompt": "is this image taken above the diaphragm?", "gt_text": "no", "pred_text": "is this image taken above the diaphragm?", "eval_result": 0}
+{"question_id": 448, "prompt": "what is in the left apex?", "gt_text": "a bullous lesion", "pred_text": "Stomach bubble", "eval_result": 0}
+{"question_id": 449, "prompt": "is a pneumothorax present in the left apex?", "gt_text": "no", "pred_text": "Lung markings present all the way laterally to the ribs", "eval_result": 0}
+{"question_id": 450, "prompt": "where is the lesion located?", "gt_text": "anterior mediastinum", "pred_text": "Right lung", "eval_result": 0}

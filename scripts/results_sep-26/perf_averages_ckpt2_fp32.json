@@ -1,0 +1,10 @@
+{
+    "delta_weights": "ckpt2",
+    "wt_precision": "fp32",
+    "num_samples_processed": 451,
+    "avg_num_tokens_generated": 45.13968957871397,
+    "average_first_token_latency": 0.09857264326311269,
+    "average_other_token_latency": 0.0783432731553851,
+    "total_execution_time": 1750.9138090610504,
+    "average_execution_time": 3.88229225955887
+}

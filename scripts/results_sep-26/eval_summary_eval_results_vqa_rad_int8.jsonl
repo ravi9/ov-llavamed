@@ -1,0 +1,15 @@
+{
+    "output_file": "eval_results_vqa_rad_int8.jsonl",
+    "num_open": 200,
+    "num_close": 251,
+    "open_type_accuracy": {
+        "percentage": "35.50%",
+        "correct": 71,
+        "total": 200
+    },
+    "close_type_accuracy": {
+        "percentage": "58.96%",
+        "correct": 148,
+        "total": 251
+    }
+}

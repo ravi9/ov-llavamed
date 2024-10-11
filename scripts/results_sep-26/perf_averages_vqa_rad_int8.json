@@ -1,0 +1,10 @@
+{
+    "delta_weights": "vqa_rad",
+    "wt_precision": "int8",
+    "num_samples_processed": 451,
+    "avg_num_tokens_generated": 4.835920177383592,
+    "average_first_token_latency": 0.16324099627408115,
+    "average_other_token_latency": 0.060708235922938635,
+    "total_execution_time": 203.54028153419495,
+    "average_execution_time": 0.45130882823546553
+}

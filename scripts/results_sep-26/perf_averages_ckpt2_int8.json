@@ -1,0 +1,10 @@
+{
+    "delta_weights": "ckpt2",
+    "wt_precision": "int8",
+    "num_samples_processed": 451,
+    "avg_num_tokens_generated": 44.73835920177384,
+    "average_first_token_latency": 0.16239222930434538,
+    "average_other_token_latency": 0.06076832265773769,
+    "total_execution_time": 1415.5613696575165,
+    "average_execution_time": 3.138717005892498
+}
